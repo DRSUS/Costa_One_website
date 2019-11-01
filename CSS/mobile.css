@@ -39,6 +39,7 @@
 
     #who {
         display: block;
+        margin-bottom: 200px;
     }
 
     #clients .items img {
